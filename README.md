@@ -9,13 +9,10 @@
 ### Features: 
 • securely register/login • create channels • favorite/unfavorite channels • send private/group messages • upload/view image messages • add emojis to messages • receive chat notifications • search for messages • crop and upload user avatars • see when other users are typing •
 <p align="center">
-  ![](images/slack2.png)
-
-  ![](images/register-sss.png)
-  ![](images/login-sss.png)
-
-  ![](images/appfilter.png)
-  ![](images/appcolors.png)
-  ![](images/appemoji.png)
+  <img src="images/slack2.png" />
+  <img src="images/register-sss.png" />
+  <img src="images/login-sss.png" />
+  <img src="images/appfilter.png" />
+  <img src="images/appcolors.png" />
   <img src="images/appemoji.png" />
 </p>
