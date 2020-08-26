@@ -17,4 +17,3 @@
 ![](images/appfilter.png)
 ![](images/appcolors.png)
 ![](images/appemoji.png)
-![](images/filter.png)
