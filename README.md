@@ -1,8 +1,7 @@
 # Project Not Slack
 ## A Full-Stack real-time chat application created with React, Redux, and Firebase.
 
-### Live Link:
-### https://react-slack-clone-16b19.web.app
+### Live Link: https://react-slack-clone-16b19.web.app
 
 ### Technologies Used: 
   • React • Redux • Firebase • Html/CSS  • JavaScript ES6/7  • Semantic UI •
