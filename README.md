@@ -1,6 +1,6 @@
 <h1 align="center">Project Not Slack</h1>
-<h2 align="center">A Full-Stack real-time chat application created with React, Redux, and Firebase.</h2>
-<h2 align="center">Live Link: https://react-slack-clone-16b19.web.app</h2>
+<h3 align="center">A Full-Stack real-time chat application created with React, Redux, and Firebase.</h3>
+<h3 align="center">Live Link: https://react-slack-clone-16b19.web.app</h3>
 <h1 align="center">Technologies Used</h1>
 <p align="center">
   • React • Redux • Firebase • Html/CSS  • JavaScript ES6/7  • Semantic UI •
