@@ -15,5 +15,5 @@
 ![](images/login-sss.png)
 
 ![](images/filtersmall.png)
-![](images/emojissmall.png)
-![](images/emojissmall.png)
+![](images/colors.png)
+![](images/emoji.png)
