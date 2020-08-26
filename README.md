@@ -14,6 +14,6 @@
 ![](images/register-sss.png)
 ![](images/login-sss.png)
 
-![](images/filtersmall.png)
+![](images/appfilter.png)
 ![](images/appcolors.png)
 ![](images/appemoji.png)
