@@ -9,4 +9,4 @@
 ### Features: 
 • securely register/login • create channels • favorite/unfavorite channels • send private/group messages • upload/view image messages • add emojis to messages • receive chat notifications • search for messages • crop and upload user avatars • see when other users are typing •
 
-![](images/slack)
+![](images/slack.png)
