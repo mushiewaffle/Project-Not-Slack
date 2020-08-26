@@ -16,4 +16,4 @@
 ![](images/login2.png)
 
 ![](images/filtersmall.png)
-![](images/emojis.png)
+![](images/emojissmall.png)
