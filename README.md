@@ -13,7 +13,7 @@
   <h1>Register and Login</h1>
   <img src="images/register-sss.png" />
   <img src="images/login-sss.png" />
-  <h1>Filter</h1>
+  <h1>Filter Messages</h1>
   <img src="images/appfilter.png" />
   <h1>Customize</h1>
   <img src="images/appcolors.png" />
