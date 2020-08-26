@@ -11,9 +11,9 @@
 
 ![](images/slack2.png)
 
-![](images/register.png)
+![](images/register-s.png)
 
-![](images/login2.png)
+![](images/login-s.png)
 
 ![](images/filtersmall.png)
 ![](images/emojissmall.png)
