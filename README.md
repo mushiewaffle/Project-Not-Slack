@@ -10,15 +10,22 @@
 
 <h1 align="center">Main Page</h1>
 <p align="center">
-  <h1>Main Page</h1>
   <img src="images/slack2.png" />
-  <h1>Register and Login</h1>
+</p>
+<h1 align="center">Register and Login</h1>
+<p align="center">
   <img src="images/register-sss.png" />
   <img src="images/login-sss.png" />
-  <h1>Filter Messages</h1>
+</p>
+<h1 align="center">Filter Messages</h1>
+<p align="center">
   <img src="images/appfilter.png" />
-  <h1>Customize</h1>
+</p>
+<h1 align="center">Customize</h1>
+<p align="center">
   <img src="images/appcolors.png" />
-  <h1>Express Yourself</h1>
+</p>
+<h1 align="center">Express Yourself</h1>
+<p align="center">
   <img src="images/appemoji.png" />
 </p>
