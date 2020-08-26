@@ -1,11 +1,11 @@
 <h1 align="center">Project Not Slack</h1>
 <h4 align="center">A Full-Stack real-time chat application created with React, Redux, and Firebase.</h4>
-<h4 align="center">Live Link: https://react-slack-clone-16b19.web.app</h4>
+<h6 align="center">Live Link: https://react-slack-clone-16b19.web.app</h6>
 <h3 align="center">Technologies Used</h3>
 <p align="center">
   • React • Redux • Firebase • Html/CSS  • JavaScript ES6/7  • Semantic UI •
 </p>
-<h1 align="center">Features</h1>
+<h3 align="center">Features</h3>
 <p align="center">
 • securely register/login • create channels • favorite/unfavorite channels • send private/group messages • upload/view image messages • add emojis to messages • receive chat notifications • search for messages • crop and upload user avatars • see when other users are typing •
 </p>
