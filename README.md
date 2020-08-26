@@ -11,6 +11,6 @@
 
 ![](images/slack2.png)
 
-![](images/login.png)
+![](images/register.png)
 
 ![](images/login2.png)
