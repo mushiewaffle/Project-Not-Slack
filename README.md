@@ -1,4 +1,6 @@
-<h1 align="center">Project Not Slack</h1>
+<p align="center">
+  <img src="images/notslack.png" />
+</p>
 <h3 align="center">A Real-Time chat application created with React, Redux, and Firebase.</br></br></h3>
 <h3 align="center">Live Link:</h3>
 <h4 align="center">https://react-slack-clone-16b19.web.app</br></br></h4>
