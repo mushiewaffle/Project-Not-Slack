@@ -15,5 +15,5 @@
 ![](images/login-sss.png)
 
 ![](images/filtersmall.png)
-![](images/colors.png)
-![](images/emoji.png)
+![](images/appcolors.png)
+![](images/appemoji.png)
