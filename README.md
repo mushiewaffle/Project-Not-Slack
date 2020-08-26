@@ -17,3 +17,7 @@
 ![](images/appfilter.png)
 ![](images/appcolors.png)
 ![](images/appemoji.png)
+
+<p align="center">
+  <img src="images/appemoji.png" />
+</p>
