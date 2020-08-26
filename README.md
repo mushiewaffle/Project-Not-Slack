@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/notslack.png" href="https://react-slack-clone-16b19.web.app"/>
+  <img src="images/notslack.png"/>
 </p>
 <h3 align="center">A Real-Time chat application created with React, Redux, and Firebase.</br></br></h3>
 <h3 align="center">Live Link:</h3>
