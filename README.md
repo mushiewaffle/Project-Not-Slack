@@ -8,4 +8,4 @@
   • React • Redux • Firebase • Html/CSS  • JavaScript ES6/7  • Semantic UI •
 
 ### Features: 
-Users are able to: • securely register/login • create channels • favorite/unfavorite channels • send private/group messages • upload and display image messages • add emojis to messages • receive chat notifications • search for messages • crop and upload user avatars • see when other users are typing •
+• securely register/login • create channels • favorite/unfavorite channels • send private/group messages • upload and display image messages • add emojis to messages • receive chat notifications • search for messages • crop and upload user avatars • see when other users are typing •
