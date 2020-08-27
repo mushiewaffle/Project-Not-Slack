@@ -12,7 +12,7 @@
 </p>
 <h3 align="center">Features</h3>
 <p align="center">
-• securely register/login • create channels • favorite/unfavorite channels • send private/group messages • upload/view images • add emojis to messages • receive chat notifications • search for messages • crop and upload user avatars • see when other users are typing •
+• securely register/login • create channels • favorite/unfavorite channels • send private/group messages • upload/view images • add emojis to messages • receive chat notifications • search for messages • crop/upload user avatars • see when other users are typing •
 </p>
 <h1></h1>
 <h3 align="center">Main Page</h3>
