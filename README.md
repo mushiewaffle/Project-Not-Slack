@@ -5,6 +5,7 @@
 <h1></h1>
 <h3 align="center">Live Link:</h3>
 <h4 align="center">https://react-slack-clone-16b19.web.app</br></br></h4>
+<h4 align="center">Dummy Login: Username(AlbertEinstein@yahoo.com) Password(AlbertEinstein)</br></br></h4>
 
 <h3 align="center">Technologies Used</h3>
 <p align="center">
